@@ -1,5 +1,5 @@
 # Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection
-This application analyzes Google Search traffic, stock prices, and sales revenue to find patterns and provides some analysis. The results are plotted with time series analysis and a forecast using the Prophet algorithm.
+This application analyzes Google Search traffic, stock prices, and sales revenue of MercadoLibre to find patterns and provides some analysis. The results are plotted with time series analysis and a forecast using the Prophet algorithm.
 
 # Technologies
 
