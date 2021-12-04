@@ -28,9 +28,21 @@ You will need to select the input CSV files from the Resource folder at each ste
 
 Your will see output that looks like this:
 
-![]()
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153637.png?raw=true)
 
-![]()
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153722.png?raw=true)
+
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153747.png?raw=true)
+
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153807.png)
+
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153826.png?raw=true)
+
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153851.png?raw=true)
+
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153934.png?raw=true)
+
+![](https://github.com/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/blob/main/Screenshot%202021-12-03%20153951.png?raw=true)
 
 ## Contributors
 This program was written by Preston Hodsman based on a request for analysis from Trilogy Education Services, a 2U, Inc.
