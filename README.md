@@ -24,7 +24,7 @@ You may run the program on Google Colab at this address:
 
 [https://colab.research.google.com/github/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/](https://colab.research.google.com/github/phodsman/Latin-America-Markets-Search-Term-and-Stock-Price-Time-Series-Analysis-and-Projection/)
 
-You will need to select the input CSV files from the Resource folder at each step where it asks you to choose a file.
+You will need to select the input CSV files from the Resource folder at each step where it asks you to choose a file. The correct file to select is described in the comments directly above each choose file prompt.
 
 Your will see output that looks like this:
 
